@@ -95,3 +95,9 @@ body, html {
     color: #4f46e5;
     max-width: 1200px;
 }
+
+.fijo{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
