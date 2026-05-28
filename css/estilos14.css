@@ -1,0 +1,97 @@
+
+body, html {
+    font-family: 'Inter', sans-serif;
+}
+
+#general {
+    background-color: #f8fafc;
+}
+
+.bordes {
+    background-color: #0f172a;
+    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08);
+    border: none ;
+}
+
+.card {
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03), 0 2px 4px -1px rgba(0, 0, 0, 0.02);
+    background-color: #ffffff;
+}
+
+.card-title {
+    font-weight: 600;
+    color: #0f172a;
+    margin-top: 15px;
+}
+
+.card img {
+    width: 130px ;
+    height: 130px ;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #6366f1 ;
+    color: #ffffff ;
+    border: none ;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+.form-control {
+    border-radius: 8px;
+    border: 1px solid #cbd5e1;
+    padding: 10px;
+    background-color: #ffffff;
+}
+
+.bg-success {
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%) ;
+    color: #ffffff ;
+    border-radius: 8px ;
+    border: none ;
+    padding: 15px ;
+    box-shadow: 0 4px 6px rgba(79, 70, 229, 0.15);
+}
+
+.bg-success h3 {
+    color: #ffffff ;
+    margin: 0;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.btn-success {
+    background-color: #4f46e5 ;
+    color: #ffffff ;
+    border: none ;
+    border-radius: 8px;
+    padding: 10px 30px;
+    font-weight: 500;
+}
+
+.bordes img {
+    width: 32px ;
+    height: 32px ;
+    margin: 10px 15px;
+}
+
+.navbar-brand {
+    width: 50px ;
+    height: 50px ;
+    margin: 0;
+}
+
+
+.previews p{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.carousel{
+    color: #4f46e5;
+    max-width: 1200px;
+}
